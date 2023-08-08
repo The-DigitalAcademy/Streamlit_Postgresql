@@ -2,10 +2,10 @@ import streamlit as st
 import psycopg2
 
 # Database connection parameters
-DB_HOST = 'localhost'
-DB_NAME = 'postgres'
-DB_USER = 'postres'
-DB_PASSWORD = 'openpgpwd'
+DB_HOST = 'database host'
+DB_NAME = 'database name'
+DB_USER = 'username'
+DB_PASSWORD = 'yourpassword'
 
 # Function to insert form data into PostgreSQL
 def insert_data(name, email, message):
