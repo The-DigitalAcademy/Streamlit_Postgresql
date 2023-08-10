@@ -14,8 +14,8 @@ This project demonstrates a simple web application built using Streamlit that ca
 1. Clone this repository:
 
    ```
-   git clone https://github.com/yourusername/streamlit-postgresql-contact-form.git
-   cd streamlit-postgresql-contact-form
+   git clone https://github.com/yourusername/streamlit-postgresql.git
+   cd streamlit-postgresql
 
 
 
