@@ -1,0 +1,8 @@
+version: '3.4'
+
+services:
+  streamlitpostgresql:
+    image: streamlitpostgresql
+    build:
+      context: .
+      dockerfile: ./Dockerfile
